@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github)
+![](https://github.com/owilioduor-a11y)
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
@@ -275,8 +275,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights]()
-- **Instagram**: [Follow me for daily tips and updates]()
-- **LinkedIn**: [Connect with me professionally]()
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@DigitalDefenceScamAlerts)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/owili-superb8403)
 
 Thank you for your support, and I look forward to connecting with you!
